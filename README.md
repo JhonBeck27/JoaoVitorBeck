@@ -92,7 +92,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 ### 📫 Contato
  
 <p align="center">
-  <a href="https://linkedin.com/in/joaovitorbeck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/joaovitorbeck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
    *Email: joaovitorbeck27@gmail.com*
   
 🌐 **Portfólio:** *em breve!*  
