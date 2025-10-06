@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-beck-409904288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:joaovitorbeck27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/joaovitorbeck"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -59,7 +58,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 </p>
 
 | 🪄 **Automação** | <p align="left">
-  <img src="https://skillicons.dev/icons?i=googlecloud,sqlite" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" />
 </p> 
 
 | 🎨 **Design** | Figma, Canva |
@@ -70,10 +69,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaovitorbeck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorbeck&layout=compact&langs_count=8&theme=radical"/>
-</p>
+
 
 ---
 
@@ -82,6 +78,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 
 ---
+
 
 
 🧭 **Próximos passos:**    
@@ -94,7 +91,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
  
 <p align="center">
   <a href="https://linkedin.com/in/joaovitorbeck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joaovitorbeck27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   *Email: joaovitorbeck27@gmail.com*
   
 🌐 **Portfólio:** *em breve!*  
 
