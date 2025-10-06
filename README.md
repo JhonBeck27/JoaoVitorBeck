@@ -54,7 +54,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 </p>
 
 | 🧰 **Ferramentas** <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,trello" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,notion,trello" />
 </p>
 
 | 🪄 **Automação** | <p align="left">
@@ -63,11 +63,12 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 | 🎨 **Design** | Figma, Canva |
 
+
 | 🧑‍💼 **Gestão e Comunicação** | Office 365 | Marketing Digital |
 
 ---
 
-### 📊 Estatísticas GitHub
+
 
 
 
