@@ -9,7 +9,7 @@
 ---
 
 
-<h1 align="center">👋 Olá, Meu nome é João Vitor Beck</h1>
+<h1 align="center">João Vitor Beck</h1>
 
 <p align="center">
 💻 Desenvolvedor em formação |  Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por Tecnologia e Inovação.
