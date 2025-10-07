@@ -1,5 +1,4 @@
 
-<img src="https://github.com/JhonBeck27/JoaoVitorBeck/blob/main/WhatsApp%20Image%202025-09-29%20at%2012.54.55.jpeg?raw=true" width="150px" align="left" style="margin-right: 20px; border-radius: 50%;" alt="Foto de João Vitor Beck"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-beck-409904288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/JhonBeck27/JoaoVitorBeck/blob/main/README.md"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
