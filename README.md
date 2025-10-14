@@ -92,7 +92,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 ### 📫 Contato
  
-<p align="center">
+<p align="left">
  
   
 <p align="center">
