@@ -12,27 +12,26 @@
 
 
 <p align="center">
-💻 Desenvolvedor em formação |  Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por Tecnologia e Inovação.
+💻 Desenvolvedor em formação |  Estudante de Engenharia de software | 🚀 Apaixonado por Tecnologia e Inovação.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
+Com 20 anos, venho construindo uma trajetória que conecta tecnologia, comunicação e inovação, sempre aprendendo na prática desde meus 18 anos.
 
-Sou um jovem profissional de 20 anos que une **tecnologia, comunicação e inovação** em tudo o que faço.  
-Atualmente, estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas** . 
+Comecei como Jovem Aprendiz na Epagri, onde minhas funções eram simples, mas minha vontade de aprender me levou a explorar áreas além do previsto. Nesse período, busquei me desenvolver em novos softwares e ferramentas digitais, organização e apoio operacional, o que me permitiu contribuir cada vez mais para a equipe. Essa iniciativa abriu espaço para que eu apoiasse em melhorias e tivesse meu primeiro contato real com tecnologia aplicada ao dia a dia corporativo.
 
-Desde os 18 anos, venho ganhando experiência prática na **Epagri**, onde trabalhei no departamento estadual de marketing e comunicação com:
-- apoio no desenvovimento  **páginas web institucionais e materiais digitais**;
-- **Automação de processos no Google Drive** para otimizar o gerenciamento de arquivos;
-- Gestão de arquivos digitais (Nuvem);
-- Design e edição;
-- Implementação de ferramentas como **Trello** e **Notion** para melhorar a produtividade do setor;
-- Participação em **campanhas de marketing e comunicação**, como “**50 anos de Pesquisa Epagri**”.
+O meu comprometimento me levou a retornar como Bolsista na área de Comunicação Técnica, já em um papel mais conectado ao ambiente digital. Nessa fase, aprofundei meus conhecimentos na área de tecnologia , gestão de conteúdo e dados,  organização de materiais, processos digitais e suporte às demandas tecnológicas da equipe.
 
-Além disso, passei por experiências no **setor financeiro**, desenvolvendo habilidades em **negociação, planejamento e comunicação estratégica**.
+Também adquiri experiência no setor financeiro, desenvolvendo habilidades essenciais como atendimento, negociação, análise de processos e comunicação — competências que fortaleceram meu perfil analítico e adaptável.
 
-> ✨ Acredito que tecnologia vai além do código — é sobre **pessoas, ideias, propósito e impacto real**.
+📘 Formação:
+Atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas e iniciando minha faculdade de Engenharia de Software, com o objetivo de aprimorar minha base técnica e evoluir profissionalmente na área de desenvolvimento.
+
+Sou apaixonado por inovação e por construir soluções que realmente fazem diferença, sou proativo e sempre disposto a aprender, acredito que tecnologia vai além do código — envolve pessoas, soluções e impacto real.
+
+🚀 Busco oportunidades que unam tecnologia, crescimento e propósito. Sempre aberto a novos desafios e conexões.
 
 ---
 
@@ -40,8 +39,7 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 - 💻 Desenvolvimento (Front-end & Back-end)
 - ⚙️ Automação e Integração de Processos
-- 🤖 Inteligência Artificial & No-Code
-- 🧩 Design e Experiência do Usuário
+- 🤖 Inteligência Artificial 
 - 🚀 Inovação e Transformação Digital
 
 ---
@@ -84,12 +82,6 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
 
 
 
-🧭 **Próximos passos:**    
-- Criar projetos integrando APIs e automações  
-- Publicar meu portfólio pessoal online  
-
----
-
 ### 📫 Contato
  
   
@@ -99,7 +91,6 @@ Além disso, passei por experiências no **setor financeiro**, desenvolvendo hab
   <a href="mailto:joaovitorbeck27@gmail.com"><img src="https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
-🌐 **Portfólio:** *em breve!*  
 
 ---
 
