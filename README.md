@@ -1,4 +1,5 @@
  <h1 align="center">João Vitor Beck</h1> 
+ <h2 align="center"> gui beck</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-beck-409904288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
