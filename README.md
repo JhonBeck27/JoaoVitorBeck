@@ -26,7 +26,9 @@ Iniciei minha jornada como Jovem Aprendiz na Epagri, onde, além das atividades 
 Também adquiri experiência no setor financeiro, fortalecendo habilidades como análise de processos, comunicação, atendimento e adaptabilidade, que complementam meu perfil técnico.
 
 📘 Formação
+
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software, com foco em fortalecer minha base técnica e evoluir na área de desenvolvimento.
+
 🚀 Busco oportunidades em tecnologia que promovam crescimento, aprendizado e propósito.
 
 ---
