@@ -62,10 +62,8 @@ Sou apaixonado por inovação e por construir soluções que realmente fazem dif
   <img src="https://skillicons.dev/icons?i=googlecloud" />
 </p> 
 
-| 🎨 **Design** | Figma, Adobe Suite,  Canva |
+| 🎨 **Design** | Figma, Adobe Suite, Canva |
 
-
-| 🧑‍💼 **Gestão e Comunicação** | Office 365 | Marketing Digital |
 
 ---
 
