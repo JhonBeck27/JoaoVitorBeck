@@ -19,28 +19,23 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Com 20 anos, venho construindo uma trajetória que conecta tecnologia, comunicação e inovação, sempre aprendendo na prática desde meus 18 anos.
+Tenho 20 anos e venho construindo uma trajetória que une tecnologia, comunicação e inovação, com foco em aprendizado prático e evolução constante.
 
-Comecei como Jovem Aprendiz na Epagri, onde minhas funções eram simples, mas minha vontade de aprender me levou a explorar áreas além do previsto. Nesse período, busquei me desenvolver em novos softwares e ferramentas digitais, organização e apoio operacional, o que me permitiu contribuir cada vez mais para a equipe. Essa iniciativa abriu espaço para que eu apoiasse em melhorias e tivesse meu primeiro contato real com tecnologia aplicada ao dia a dia corporativo.
+Iniciei minha jornada como Jovem Aprendiz na Epagri, onde, além das atividades iniciais, busquei me desenvolver em ferramentas digitais, organização de processos e apoio tecnológico, tendo meu primeiro contato com tecnologia aplicada ao ambiente corporativo. Esse crescimento me levou a retornar como Bolsista em Comunicação Técnica, atuando de forma mais próxima ao ambiente digital, com gestão de conteúdo, dados, processos e suporte tecnológico.
 
-O meu comprometimento me levou a retornar como Bolsista na área de Comunicação Técnica, já em um papel mais conectado ao ambiente digital. Nessa fase, aprofundei meus conhecimentos na área de tecnologia , gestão de conteúdo e dados,  organização de materiais, processos digitais e suporte às demandas tecnológicas da equipe.
+Também adquiri experiência no setor financeiro, fortalecendo habilidades como análise de processos, comunicação, atendimento e adaptabilidade, que complementam meu perfil técnico.
 
-Também adquiri experiência no setor financeiro, desenvolvendo habilidades essenciais como atendimento, negociação, análise de processos e comunicação — competências que fortaleceram meu perfil analítico e adaptável.
-
-📘 Formação:
-Atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas e iniciando minha faculdade de Engenharia de Software, com o objetivo de aprimorar minha base técnica e evoluir profissionalmente na área de desenvolvimento.
-
-Sou apaixonado por inovação e por construir soluções que realmente fazem diferença, sou proativo e sempre disposto a aprender, acredito que tecnologia vai além do código — envolve pessoas, soluções e impacto real.
-
-🚀 Busco oportunidades que unam tecnologia, crescimento e propósito. Sempre aberto a novos desafios e conexões.
+📘 Formação
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software, com foco em fortalecer minha base técnica e evoluir na área de desenvolvimento.
+🚀 Busco oportunidades em tecnologia que promovam crescimento, aprendizado e propósito.
 
 ---
 
 ### 🧠 Áreas de Interesse
 
 - 💻 Desenvolvimento (Front-end & Back-end)
-- ⚙️ Automação e Integração de Processos
-- 🤖 Inteligência Artificial 
+- ⚙️ Engenharia de Software
+- 🤖 Automação e Integração de Processos
 - 🚀 Inovação e Transformação Digital
 
 ---
@@ -55,7 +50,7 @@ Sou apaixonado por inovação e por construir soluções que realmente fazem dif
 </p>
 
 | 🧰 **Ferramentas** <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,notion,trello" />
+  <img src="https://skillicons.dev/icons?i=github,notion,trello" />
 </p>
 
 | 🪄 **Automação** | <p align="left">
@@ -73,7 +68,7 @@ Sou apaixonado por inovação e por construir soluções que realmente fazem dif
 
 ---
 
-### 📁 Projetos em Destaque *Em Breve!*
+### 📁 Projetos em Destaque *Em Breve!* (atualmente em desenvolvimento e aprendizado contínuo.)
 
 
 
