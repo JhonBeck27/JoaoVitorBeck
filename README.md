@@ -19,11 +19,27 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Tenho 20 anos e venho construindo uma trajetória que une tecnologia, comunicação e inovação, com foco em aprendizado prático e evolução constante.
+Formado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Software, com experiência prática em ambientes corporativos atuando com suporte tecnológico, automação de processos, organização digital, desenvolvimento de soluções internas e apoio operacional.
 
-Iniciei minha jornada como Jovem Aprendiz na Epagri, onde, além das atividades iniciais, busquei me desenvolver em ferramentas digitais, organização de processos e apoio tecnológico, tendo meu primeiro contato com tecnologia aplicada ao ambiente corporativo. Esse crescimento me levou a retornar como Bolsista em Comunicação Técnica, atuando de forma mais próxima ao ambiente digital, com gestão de conteúdo, dados, processos e suporte tecnológico.
+ 
 
-Também adquiri experiência no setor financeiro, fortalecendo habilidades como análise de processos, comunicação, atendimento e adaptabilidade, que complementam meu perfil técnico.
+Minha trajetória iniciou na Epagri, onde atuei inicialmente na área de comunicação e marketing institucional como jovem aprendiz, desenvolvendo materiais digitais, organização de arquivos e edição, suporte visual e apoio em eventos corporativos. Posteriormente, retornei à instituição como bolsista técnico por meio de edital voltado à área de tecnologia, atuando diretamente na organização e gestão de bancos de arquivos em nuvem utilizados em diferentes regiões de Santa Catarina.
+
+ 
+
+Durante essa experiência, desenvolvi automações e scripts em JavaScript com foco na melhoria de processos internos, otimização da gestão de arquivos e suporte à utilização do sistema por diferentes usuários da instituição. Também participei do apoio ao desenvolvimento de página web utilizando HTML, CSS, JavaScript e GitHub.
+
+ 
+
+Além da experiência na área tecnológica, atuei no setor financeiro da Impulse Cred, desenvolvendo habilidades analíticas, interpretação de dados, operação de sistemas, acompanhamento de processos e atendimento consultivo.
+
+ 
+
+Possuo conhecimentos acadêmicos e práticos em JavaScript, Java, HTML, CSS, SQL, PostgreSQL, MySQL, Git/GitHub, metodologias ágeis e automação de processos, além de familiaridade com ferramentas como google workspace, Trello, Notion, Figma, pacote Adobe Creative Cloud, pacote office e plataformas de inteligência artificial aplicadas à produtividade e organização operacional.
+
+
+
+Meu principal objetivo é ingressar definitivamente na área de tecnologia, contribuindo com soluções eficientes, organização de processos, automação e desenvolvimento de sistemas. Atualmente, estou direcionando minha carreira para um perfil cada vez mais completo, combinando a tecnologia  e visão de negócio. Busco oportunidades na área de tecnologia onde eu possa evoluir tecnicamente, gerar impacto real e contribuir com soluções inovadoras.
 
 📘 Formação
 
@@ -39,6 +55,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenha
 - ⚙️ Engenharia de Software
 - 🤖 Automação e Integração de Processos
 - 🚀 Inovação e Transformação Digital
+- Análise de Sistemas 
 
 ---
 
